@@ -15,3 +15,4 @@ Please check out License Agreement for personal usage terms and limitations
 - Rectangle: P = 2a + 2b
 - Square: P = 4a
 
+# Some change for Lesson 6 practice
